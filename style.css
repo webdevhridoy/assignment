@@ -105,6 +105,10 @@ body {
     margin: 0 5px;
 }
 
+.donate-amount:hover {
+    background-color:#7D2369;
+}
+
 .donate-amount-title {
     font-size: 25px;
     font-weight: 600;
