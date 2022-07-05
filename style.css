@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 
-/* Header Area Start */
+/* <!-- Header-Banner Area Start --> */
 
 .header-container {
     width: 100%;
@@ -44,8 +44,10 @@ body {
     text-decoration: none;
 }
 
+/* <!-- Header-Banner Area End --> */
 
-/* Donate Now Area Start */
+
+/* <!-- Donation Section Area Start --> */
 
 .donate-container {
     display: flex;
@@ -55,7 +57,7 @@ body {
 
 .donate-content {
     text-align: center;
-    padding: 25px 0 10px 0;
+    padding: 55px 0 10px 0;
 }
 
 .donate-title {
@@ -70,10 +72,12 @@ body {
     font-weight: 300;
     color: #44364e;
     padding: 10px 0;
-    
 }
 
-/* Donation amount selection start */
+/* <!-- Donation Section Area End --> */
+
+
+/* <!-- Donation Amount Area start --> */
 
 .donate-amount-container {
     display: flex;
@@ -102,7 +106,7 @@ body {
 }
 
 .donate-amount-title {
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 600;
     color: #fff;
     margin: 0;
@@ -112,7 +116,10 @@ body {
     display: block;
 }
 
-/* Donation Submit Area */
+/* <!-- Donation Amount Area End --> */
+
+
+/* <!-- Donation Button with Submit Button Area Start --> */
 
 .donation-container {
     display: flex;
@@ -139,3 +146,5 @@ body {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* <!-- Donation Button with Submit Button Area End --> */
