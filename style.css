@@ -152,3 +152,147 @@ body {
 }
 
 /* <!-- Donation Button with Submit Button Area End --> */
+
+
+/* <!-- donate Plan Area Start --> */
+
+.donate-plan-area {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.donate-plan-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #cd366b;
+    margin: 0;
+}
+
+.donate-plan-description {
+    font-size:20px;
+    font-weight: 300;
+    color: #44364e;
+    padding: 10px 0;
+}
+
+.donate-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+}
+
+.donate-card1  {
+    text-align: left;
+    width:400px ;
+    height: auto;
+    background-color: #812570;
+    margin-left: 10px;
+    padding: 20px;
+    color:#ffffff
+}
+
+.foster {
+    background-color: #C62F64;
+}
+
+.education {
+    background-color: #F38719;
+}
+
+/* <!-- donate Plan Area End --> */
+
+/* <!-- Adoption Area Start --> */
+
+.adoption-area {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.adoption-gallery {
+    display: inline-block;
+}
+
+.adoption-gallery img {
+    width:300px ;
+    height:300px ;
+    border-radius: 10px;
+}
+
+.adoption-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #cd366b;
+    margin: 0;
+}
+
+.adoption-description {
+    font-size:20px;
+    font-weight: 300;
+    color: #44364e;
+    padding: 10px 0;
+}
+
+/* <!-- Newsletter Area End --> */
+
+.newsletter-container {
+    width: 80%;
+    margin: auto;
+}
+
+.newsletter-area {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.newsletter-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #cd366b;
+    margin: 0;
+}
+
+.newsletter-description {
+    font-size:20px;
+    font-weight: 300;
+    color: #44364e;
+    padding: 10px 0;
+}
+
+.newsletter-input {
+    text-align: center;
+    padding: 55px 0 10px 0;
+}
+
+.newsletter-background {
+    width: 60%;
+    margin: auto;
+    background-color: #C62F64;
+    padding:70px 60px;
+    border-radius: 10px;
+}
+
+.newsletter-input {
+    width: 300px;
+    text-align: center;
+    border: 2px solid #F38719;
+    padding: 12px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-right: -10px;
+}
+
+.newsletter-input-value {
+    color: #ffffff;
+    background-color: #F38719;
+    width: 120px;
+    text-align: center;
+    border: 2px solid #F38719;
+    padding: 12px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    cursor: pointer;
+}
+
+/* Newsletter Area End */
