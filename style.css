@@ -1,6 +1,10 @@
 body {
     margin: 0;
     padding: 0;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* <!-- Header-Banner Area Start --> */
@@ -21,15 +25,15 @@ body {
 }
 
 .header-title {
-    font-size: 55px;
-    font-weight: 200;
+    font-size: 45px;
+    font-weight: 600;
     color: #ffffff;
     margin: 0;
 }
 
 .header-description {
-    font-size: 24px;
-    font-weight: 200;
+    font-size: 20px;
+    font-weight: 100;
     color: #ffffff;
     padding: 10px 0;
     margin-bottom: 50px;
