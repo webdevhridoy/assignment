@@ -296,3 +296,11 @@ body {
 }
 
 /* Newsletter Area End */
+
+.footer-container {
+    color: #ffffff;
+    margin-top: 100px;
+    text-align: center;
+    background-color:#382A41;
+    padding: 30px 0;
+}
